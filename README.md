@@ -31,7 +31,7 @@ A multi-sensor soil detector project capable of monitoring soil moisture, ambien
 ## Images
 
 ### Circuit Diagram
-![Soil Detector Circuit](Soil%20Detector.png)
+![Soil Detector Circuit](Soil_Detector.png)
 
 ### 3D Assembly Preview
 ![3D Assembly Screenshot](Screenshot%202025-08-19%20145444.jpg)
