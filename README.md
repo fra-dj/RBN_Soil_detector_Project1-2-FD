@@ -38,8 +38,22 @@ A multi-sensor soil detector project capable of monitoring soil moisture, ambien
 
 ---
 
-## Installation / Setup
+## Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/RBN_Soil_Detector_Project1-2-FD.git
+Open soil_detector1.ino in Arduino IDE.
+
+Install required libraries (e.g., Wire.h, LiquidCrystal_I2C.h, DHT.h).
+
+Upload the code to your Arduino UNO or ESP32.
+
+Assemble the sensor module using the STEP files provided.
+
+---
+
+## Usage
+
+Place the soil sensor in the target soil area.
+
+Power up the Arduino / ESP32.
+
+Readings of soil moisture, temperature, humidity, and light intensity will appear on the LCD.
