@@ -1,2 +1,10 @@
 # RBN_Soil_detector_Project1-2-FD
 Soil detector build
+ihiohbljnl;jnjk
+knkonbhivuoijipu
+jhkbjoibgyihpiohb
+jugbyughipjhjkvfyig[
+jguhjo[hjiyfio
+jhfgiyuoj;lkbvyhulfyiuhkljvutgtuoibgv
+ghfiuouyk;xdryedturswehtsgjhkughpo
+gyfduyifgouiydcxryifdyifdily
